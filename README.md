@@ -1,16 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Personal Portfolio
 
-Currently, two official plugins are available:
+My personal developer portfolio built with React to showcase my projects, skills, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Features
+- Hero section with introduction
+- Projects showcase
+- Skills section
+- Contact information
+- Responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React.js
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/63e846a4-39e1-49f1-90fe-b7f2439c1f25" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/53a08ce9-e821-4696-9927-557b4f1c7bca" />
+
+
+
+---
+
+## 🔗 Live Site
+https://react-portfolio-mauve-rho.vercel.app
+
+---
+
+## 📂 Project Setup
+
+```bash
+npm install
+npm run dev
